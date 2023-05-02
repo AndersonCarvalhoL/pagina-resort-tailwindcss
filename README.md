@@ -2,7 +2,7 @@
 
 ![Preview](/.github/Preview.png)
 
->Projeto desenvolvido em TailwindCSS totalmnte responsivo.
+>Projeto desenvolvido em TailwindCSS totalmente responsivo.
 
 
 
