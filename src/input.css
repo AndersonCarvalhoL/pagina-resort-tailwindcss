@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.banner {
+    height: 450px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./img/beautiful-luxury-outdoor-swimming-pool-hotel-resort.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.shadow {
+    right: 0;
+    left: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.9))
+}
